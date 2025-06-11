@@ -1,4 +1,4 @@
-# 🧠 Apache Spark Notes (Corrected)
+# 🧠 Apache Spark Notes
 
 ## Spark Architecture Overview
 
